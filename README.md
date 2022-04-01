@@ -1,3 +1,3 @@
-# wild_test
+# Wild Test
 
 ## Project Overview
